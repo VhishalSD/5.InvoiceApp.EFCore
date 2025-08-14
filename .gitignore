@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio folders
+.vs/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Entity Framework Core migration snapshots
+Migrations/
+
+# Others
+*.log
+*.cache
